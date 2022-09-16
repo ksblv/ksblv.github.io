@@ -44,6 +44,7 @@ body {
   justify-content: center;
   align-items: center;
   float: right;
+  position: fixed;
 margin-bottom: 50px;
 margin-top: 0px;
 margin-left: 80px;
