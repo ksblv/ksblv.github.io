@@ -29,15 +29,7 @@ html {
   background-attachment: scroll;
     background-size: cover;
 }
-/* For mobile devices */
 
-@media only screen and (max-width: 767px) {
-
-  body {
-
-  background-image: url(./background-photo-mobile-devices.jpg);
-
-  }
 
 }
 
