@@ -1,7 +1,7 @@
-/*@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: dark) {
   :root {
         --bacground-color:#ffffff;
-    /*--bg: #010101;*/
+   
     --text: #ffffff;
     --subtext: #8f8f8f;
     --linktext: #cb782f;
@@ -22,7 +22,7 @@
     --buttoncolor: #ffffff;
   }
 }
-*/
+
 html {
   background-image: url(./background.jpg);
   background-repeat: no-repeat;
