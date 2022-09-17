@@ -1,4 +1,26 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #010101;
+    --text: #ffffff;
+    --subtext: #8f8f8f;
+    --linktext: #cb782f;
+    --underline: #444444;
+    --sectionbg: #1c1c1e;
+    --buttoncolor: #ffffff;
+  }
+}
 
+@media (prefers-color-scheme: light) {
+  :root {
+ 
+    --text: #000000;
+    --subtext: #8f8f8f;
+    --linktext: #cb782f;
+    --underline: #dadada;
+    --sectionbg: #ffffff;
+    --buttoncolor: #ffffff;
+  }
+}
 
 html {
   background-image: url(./background.jpg);
