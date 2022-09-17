@@ -33,12 +33,10 @@ img.background {
 
   /* Зависит от размера изображения */
   @media screen and (max-width: 414px){
-	img.bg {
-	  left: 50%;
-	  margin-left: -320px;
+	background-image: url(./background-photo-mobile-devices.jpg);
 	}
   }
-}
+
 
 body {
   font-family: "Helvetica";
