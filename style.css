@@ -40,9 +40,16 @@ html {
   html {
 
   background-image: url(./background-photo-mobile-devices.jpg);
-
   }
-
+  body {font-family: "Helvetica";
+  background-color: var(--bg);
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+}
 }
 
 body {
