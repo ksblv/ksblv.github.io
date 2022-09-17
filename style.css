@@ -31,10 +31,7 @@ img.background {
   top: 0;
   left: 0;
 
-  /* Зависит от размера изображения */
-  @media screen and (max-width: 414px){
-	background-image: url(./background-photo-mobile-devices.jpg);
-	}
+ 
   }
 
 
