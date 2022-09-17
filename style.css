@@ -34,7 +34,19 @@ html {
   background-size: cover;
 }
 
+/* For mobile devices */
 
+@media only screen and (max-width: 414px) {
+
+  body {
+
+  background-image: url(./background-photo-mobile-devices.jpg);
+
+  }
+
+}
+
+ 
 
 
 body {
