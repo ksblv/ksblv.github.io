@@ -34,8 +34,7 @@ html {
 }
 
 @media only screen and (max-width: 768px) {
-body {     background-image: url(./background-photo-mobile-devices.jpg); 
-  background-color:#ffffff} }
+body {       background-color:#ffffff} }
 
 
 body {
