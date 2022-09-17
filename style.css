@@ -38,7 +38,7 @@ html {
 
 @media only screen and (max-width: 414px) {
 
-  body {
+  bodymobile {
 
   background-image: url(./background-photo-mobile-devices.jpg);
      background-repeat: no-repeat;
