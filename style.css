@@ -96,7 +96,16 @@ body {
   margin: auto;
 }
 
-
+beauty-rotate {
+  /*margin: auto;*/
+  /*border: solid 2px violet;*/
+  margin-left: 50px;
+  height: auto; 
+  width: auto;
+  overflow: hidden;
+  object-fit: contain;
+  /*-webkit-transition: all 1s ease;
+          transition: all 1s ease;*/
 
 .header__title {
   margin: 0px 20px 0px 20px;
