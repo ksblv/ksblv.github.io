@@ -85,6 +85,11 @@ body {
 .header__avatar {
   margin: auto;
   border-radius: 50%;
+   margin-left: 50px;
+  height: auto; 
+  width: auto;
+  overflow: hidden;
+  object-fit: contain;
 }
 
 .centered {
@@ -94,17 +99,10 @@ body {
   right: -50%;
   bottom: -50%;
   margin: auto;
+  
 }
 
-.beauty-rotate {
-  /*margin: auto;*/
-  /*border: solid 2px violet;*/
-  margin-left: 50px;
-  height: auto; 
-  width: auto;
-  overflow: hidden;
-  object-fit: contain;
-     }       
+
 
 .header__title {
   margin: 0px 20px 0px 20px;
