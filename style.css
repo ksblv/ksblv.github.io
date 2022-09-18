@@ -69,13 +69,10 @@ body { background-color: #ffffff;
   }
 body { background-color: #ffffff;
     background-image: none;
-    /*background-position: center center;*/
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    margin-left: 80px;
+    margin-right: 80px;
+    float: right;
     height: 100vh;
-    background-size: cover;
-    margin-left: 0px;
-    margin-right: 0px;
   }}
 
 body {
