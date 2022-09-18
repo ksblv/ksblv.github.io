@@ -60,7 +60,7 @@ body { background-color: #ffffff;
 
 body {
   font-family: "Helvetica", sans-serif;
-  background-color: #ffffff;
+  background-color: var(--bg);
   color: var(--text);
   display: flex;
   flex-direction: column;
