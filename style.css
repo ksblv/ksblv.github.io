@@ -33,7 +33,7 @@ html {
 /* For mobile devices */
 
 @media only screen and (max-width: 767px) {
-  body {
+  html {
     
     background-color: #ffffff;
  
@@ -42,7 +42,7 @@ html {
 }
 
 @media only screen and (min-width: 767px) {
-  body {
+  html {
     background-color: #ffffff;
     margin-left: 80px;
     margin-right: 80px;
