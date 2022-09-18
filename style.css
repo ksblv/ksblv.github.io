@@ -36,7 +36,7 @@ html {
 /* For mobile devices */
 
 @media only screen and (max-width: 767px) {
-  body {
+  html {
     background-color: #ffffff;
     background-image: none;
     /*background-position: center center;*/
@@ -51,7 +51,7 @@ html {
 }
 
 @media only screen and (min-width: 767px) {
-  body {
+  html {
     background-color: #ffffff;
     background-image: none;
     margin-left: 80px;
