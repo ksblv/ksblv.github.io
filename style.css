@@ -1,5 +1,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
+   
+    --background-color:#ffffff;
     --bg: #010101;
     --text: #ffffff;
     --subtext: #8f8f8f;
@@ -13,6 +15,7 @@
 @media (prefers-color-scheme: light) {
   :root {
  
+    --background-color:#ffffff;
     --text: #000000;
     --subtext: #8f8f8f;
     --linktext: #cb782f;
@@ -32,7 +35,7 @@ html {
 
 /* For mobile devices */
 
-@media only screen and (max-width: 767px) {
+/*@media only screen and (max-width: 767px) {
   body {
     background-image: url(./background-photo-mobile-devices.jpg);
     /*background-position: center center;*/
@@ -53,7 +56,7 @@ html {
     float: right;
     height: 100vh;
   }
-
+*/
 }
 
 body {
