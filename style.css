@@ -38,7 +38,9 @@ html {
     background-color: #ffffff;
  
   }
-
+  body {
+    background-color: #ffffff;}
+}
 }
 
 @media only screen and (min-width: 767px) {
@@ -49,7 +51,8 @@ html {
     float: right;
     height: 100vh;
   }
-
+  body {
+    background-color: #ffffff;}
 }
 
 body {
