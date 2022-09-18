@@ -104,8 +104,7 @@ body {
   width: auto;
   overflow: hidden;
   object-fit: contain;
-  -webkit-transition: all 1s ease;
-          transition: all 1s ease;
+  
 } 
 
 
