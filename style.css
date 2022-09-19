@@ -40,7 +40,7 @@ html {
 
 @media only screen and (max-width: 1080px) {
   body {
-    background-image: none;
+    background-image: url(./background-photo-mobile-devices.jpg);
     /*background-color: #000000;*/
     /*background-position: center center;*/
     /*background-repeat: no-repeat;*/
@@ -68,7 +68,7 @@ html {
 
 @media only screen and (min-width: 1080px) {
   body {
-    background-image: none;
+    background-image: url(./background-photo-mobile-devices.jpg);
     /*background-color:#ffffff;*/
     margin-left: 80px;
     margin-right: 80px;
