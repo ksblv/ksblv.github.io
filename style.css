@@ -189,7 +189,7 @@ main:hover {
 
 .links {
   width: 320px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   /*padding-right: 20px;*/
   /*margin-bottom: 40px;*/
 }
@@ -198,8 +198,10 @@ main:hover {
   font-family: "Helvetica Neue";
   font-size: 24px;
   line-height: 1.4;
-  /*margin: center;*/
+  margin: auto;
   text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 .links__container {
