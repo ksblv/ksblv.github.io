@@ -49,14 +49,15 @@ html {
     background-size: cover;
     margin-left: 0px;
     margin-right: 0px;
+
   }
   html {
     /*background-image: none;*/
   }
   .container {
     /*background-color: black;*/
+    padding-top: 0px;
   }
-
 }
 
 @media only screen and (min-width: 767px) {
