@@ -11,7 +11,7 @@ html {
 
 @media only screen and (max-width: 767px) {
   
-body { background-color: #ffffff;
+body { 
     background-image: url(./background-photo-mobile-devices.jpg);
     /*background-position: center center;*/
     background-repeat: repeat;
@@ -24,7 +24,7 @@ body { background-color: #ffffff;
 
 @media only screen and (min-width: 767px) {
 
-body { background-color: #ffffff;
+body { 
   background-image: url(./background-photo-mobile-devices.jpg);
     
      background-repeat: repeat;
