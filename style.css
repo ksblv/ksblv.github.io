@@ -126,9 +126,16 @@ body {
   /*text-align: center;*/
 }
 
+.container {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-color: black;
+}
+
 .hhblock {
   display: flex;
   justify-content: center;
+  margin-bottom: 10%;
 }
 
 .header__subtitle {
