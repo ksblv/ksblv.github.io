@@ -47,6 +47,11 @@ html {
   html {
     background-image: none;
   }
+  .container {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: black;
+  }
 
 }
 
@@ -127,8 +132,8 @@ body {
 }
 
 .container {
-  margin-top: 10%;
-  margin-bottom: 10%;
+  margin-top: 50px;
+  margin-bottom: 50px;
   background-color: black;
 }
 
