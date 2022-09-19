@@ -44,19 +44,21 @@ html {
     margin-left: 0px;
     margin-right: 0px;
   }
+  html {
+    background-image: none;
+  }
 
 }
 
 @media only screen and (min-width: 767px) {
   body {
-      background-image: none;
+    background-image: none;
     background-color:#ffffff;
     *margin-left: 80px;
     margin-right: 80px;
     float: right;
-    height: 100vh;*
+    height: 100vh;
   }
-
 }
 
 body {
@@ -72,7 +74,6 @@ body {
   margin-top: 0px;
   /*margin-left: 80px;*/
   /*margin-right: 80px;*/
-
 }
 
 
