@@ -35,7 +35,7 @@ html {
 @media only screen and (max-width: 767px) {
   body {
     background-image: none;
-    background-color:#ffffff;
+    background-color: #000000;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -48,8 +48,6 @@ html {
     background-image: none;
   }
   .container {
-    margin-top: 50px;
-    margin-bottom: 50px;
     background-color: black;
   }
 
@@ -67,6 +65,7 @@ html {
 }
 
 body {
+
   font-family: "Helvetica", sans-serif;
   background-color: var(--bg);
   color: var(--text);
@@ -76,7 +75,7 @@ body {
   align-items: center;
   /*float: right;*/
   /*margin-bottom: 50px;*/
-  margin-top: 0px;
+  padding-top: 50px;
   /*margin-left: 80px;*/
   /*margin-right: 80px;*/
 }
@@ -132,8 +131,6 @@ body {
 }
 
 .container {
-  margin-top: 50px;
-  margin-bottom: 50px;
   background-color: black;
 }
 
