@@ -55,7 +55,7 @@ html {
   }
   html {
     background-position: center 50px;
-    background-image: none;
+    /*background-image: none;*/
   }
   main {
     background-image: none;}
@@ -78,8 +78,7 @@ html {
     height: 100vh;
     justify-content: right;
   }
-    html {
-      background-image: none;
+   
   }  
   main {
     background-image: none;}
