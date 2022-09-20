@@ -40,7 +40,7 @@ html {
 
 @media only screen and (max-width: 767px) {
   body {
-    background-image: none;
+    /*background-image: none;*/
     /*background-color: #000000;*/
     /*background-position: center center;*/
     /*background-repeat: no-repeat;*/
@@ -57,8 +57,6 @@ html {
     background-position: center 50px;
     /*background-image: none;*/
   }
-  main {
-    background-image: none;}
   .container {
     /*background-color: black;*/
     padding-top: 0px;
@@ -70,7 +68,7 @@ html {
 
 @media only screen and (min-width: 767px) {
   body {
-    background-image: none;
+    /*background-image: none;*/
     /*background-color:#ffffff;*/
     margin-left: 80px;
     margin-right: 80px;
@@ -78,10 +76,6 @@ html {
     height: 100vh;
     justify-content: right;
   }
-   
-  }  
-  main {
-    background-image: none;}
 }
 
 body {
