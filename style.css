@@ -55,7 +55,7 @@ html {
   }
   html {
     background-position: center 50px;
-    background-image: url(./background-photo-mobile-devices.jpg);
+    /*background-image: url(./background-photo-mobile-devices.jpg);*/
   }
   .container {
     /*background-color: black;*/
