@@ -169,7 +169,8 @@ main:hover {
 }
 
 .header__subtitle {
-  color: var(--text);
+ /* color: var(--text);*/
+  color: #9a9a9a;
   font-size: 18px;
   font-style: italic;
   line-height: 0;
