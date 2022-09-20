@@ -38,10 +38,10 @@ html {
 
 /* For mobile devices */
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 1080px) {
   body {
-    /*background-image: none;*/
-    /*background-color: #000000;*/
+    background-image: none;
+    background-color: #ffffff;
     /*background-position: center center;*/
     /*background-repeat: no-repeat;*/
     /*background-attachment: fixed;*/
@@ -55,7 +55,8 @@ html {
   }
   html {
     background-position: center 50px;
-    /*background-image: none;*/
+    background-image: none;
+    background-color: #ffffff;
   }
   .container {
     /*background-color: black;*/
@@ -66,7 +67,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 1080px) {
   body {
     /*background-image: none;*/
     /*background-color:#ffffff;*/
